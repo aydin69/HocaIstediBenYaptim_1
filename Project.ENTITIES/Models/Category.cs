@@ -11,6 +11,6 @@ namespace Project.ENTITIES.Models
         public string CategoryName { get; set; }
         public string Description { get; set; }
 
-        //Relational Properties
+        //Relational Properties -Test
     }
 }
